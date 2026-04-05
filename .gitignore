@@ -1,0 +1,10 @@
+target/
+*.log
+*.class
+*.jar
+*.war
+.idea/
+.vscode/
+.env
+
+src/main/resources/application.properties
