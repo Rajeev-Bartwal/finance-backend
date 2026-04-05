@@ -7,4 +7,4 @@ target/
 .vscode/
 .env
 
-src/main/resources/application.properties
+#src/main/resources/application.properties
